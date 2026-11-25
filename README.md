@@ -2,33 +2,14 @@
 
 **3rd-year Software Engineering student** at Vilnius University Šiauliai Academy, Lithuania 🇱🇹
 
-I build backend services, cloud functions, AI agents and web apps, and I like knowing how things work under the hood, from x86 Assembly up to serverless APIs and LLM function calling.
+I mostly build backend services and web apps, and I like understanding how things work under the hood. Right now I'm exploring cloud functions and LLM-based agents.
 
-## 🛠️ Tech I work with
+## 🛠️ Skills
 
-**Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Assembly](https://img.shields.io/badge/x86%20Assembly-6E4C13)
-
-**Cloud, backend and AI:**
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?logo=azurefunctions&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-005571)
-![LLM agents](https://img.shields.io/badge/LLM%20agents-function%20calling-8A2BE2)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-
-**Architecture and e-commerce:**
-![ArchiMate](https://img.shields.io/badge/ArchiMate-0B5394)
-![BPMN](https://img.shields.io/badge/BPMN%20%2F%20DMN-FF6F00)
-![Camunda](https://img.shields.io/badge/Camunda-FC5D0D?logo=camunda&logoColor=white)
-![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?logo=prestashop&logoColor=white)
+**Most experienced:** Java · C# · PHP · SQL  
+**Also used in projects:** Python · JavaScript · Rust · x86 Assembly  
+**Cloud & tools (coursework):** AWS Lambda · Azure Functions · REST APIs · Git  
+**Currently learning:** LLM agents (function calling) · BPMN / ArchiMate
 
 ## 🚀 Featured projects
 
