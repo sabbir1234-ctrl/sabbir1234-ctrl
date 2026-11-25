@@ -2,13 +2,13 @@
 
 **3rd-year Software Engineering student** at Vilnius University Šiauliai Academy, Lithuania 🇱🇹
 
-I mostly build backend services and web apps, and I like understanding how things work under the hood. Right now I'm exploring cloud functions and LLM-based agents.
+I mostly build backend services and web apps, and I like understanding how things work under the hood. Right now I'm focusing on network programming, systems programming and software project management.
 
 ## 🛠️ Skills
 
 **Most experienced:** Java · C# · PHP · SQL  
 **Also used in projects:** Python · JavaScript · Rust · x86 Assembly  
-**Cloud & tools (coursework):** AWS Lambda · Azure Functions · REST APIs · Git  
+**Tools & platforms (coursework):** AWS Lambda · Azure Functions · REST APIs · Git  
 **Currently learning:** LLM agents (function calling) · BPMN / ArchiMate
 
 ## 🚀 Featured projects
